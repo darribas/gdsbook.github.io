@@ -9,7 +9,7 @@ project we've been working on for several months now: the forthcoming book
 
 When we started this adventure, we only had one thing clear: we wanted to
 write a book that would help as many people as possible getting started in
-Python for Geographic Data Science. This goal has guided some key
+Python for Geographic Data Science. This goal has guided key
 decisions about the publishing process and the final product. Let's get into
 the three main ones.
 
@@ -17,9 +17,9 @@ the three main ones.
 
 The book is licensed under Creative Commons, is, and always will be freely
 available online.
-We really see this project as a pedagogical extension of our
+We see this project as a pedagogical extension of our
 efforts with PySAL and elsewhere to build an open toolkit for spatial
-analytics. Hence, it is only logical that it adopts a similar open-source ethos.
+analytics. Hence, our book adopts a similar open-source ethos.
 
 ### Open development
 
@@ -33,7 +33,7 @@ recorded, and the conversation is hosted in the open.
 
 This approach also means that you can not only enjoy the book by *reading* it,
 but **you can help improve it, and contribute with ideas and suggestionss**.
-If you see anything that needs fixing or have any feedback, feel free to open an
+If you see anything that needs fixing or have any feedback, let us know by opening an
 issue on Github at:
 
 > [https://github.com/gdsbook/book/issues/new](https://github.com/gdsbook/book/issues/new)
